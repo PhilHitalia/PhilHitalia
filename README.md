@@ -1,11 +1,7 @@
 <div align="center">
-   <img width="3000" height="550" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7BD1D2&text=Hello%20there,%20I'm%20Phil%20👾&animation=fadeIn&textBg=false&reversal=true&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=43" />
+   <img width="3000" height="550" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7BD1D2&text=Hello%20there,%20I'm%20Phil%20&animation=fadeIn&textBg=false&reversal=true&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=43" />
 </div>
-
-<p align="center">
-   <img width="100" height="100" src="https://media.tenor.com/ru60QapwQ3IAAAAi/hello-hey.gif" 
-   </p>
-      
+     
 <p align="center">
   <em>🧑‍💻 Computer Science Student | 🧩 Code. Create. Improve.  <br>🌱 Keep Growing, Keep Coding</em>
 </p>
