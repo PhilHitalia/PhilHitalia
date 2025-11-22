@@ -31,7 +31,7 @@
 |-------------|:---------:|:----:|
 | [Introduction to Cybersecurity](https://drive.google.com/file/d/1d_2Q4vixCmaFrsrsEpxj-c39ji4N2s8H/view?usp=sharing) | Cisco Net Acad | 2025 |
 | [UI and UX Design](https://drive.google.com/file/d/1lFM5Y8ZaEeoJWF_p5DXsbN9hbTReTf4O/view?usp=sharing) | DICT | 2025 |
-| [SQL Database 101](https://drive.google.com/file/d/1M_6gjheJpwthsUXOZekPPQBAedDYrnmE/view?usp=drive_link) | Cognitive Class AI | 2025 |
+| [SQL Database 101](https://courses.cognitiveclass.ai/certificates/263fa1f2b9ab4c928a6562b04c622a85) | Cognitive Class AI | 2025 |
 | [AI for Beginners](https://drive.google.com/file/d/1EK-TZucL9dLERHtJ-D6shS1H0laC6GCm/view?usp=sharing) | DICT | 2025 |
 | [Software Development and Design Tinking](https://drive.google.com/file/d/1pSbkp_bxr0_lcW4XSwEfuJqgiwA2aA8b/view?usp=sharing) | DICT | 2025 |
 
