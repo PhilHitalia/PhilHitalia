@@ -34,7 +34,7 @@
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/263fa1f2b9ab4c928a6562b04c622a85) | Cognitive Class AI | 2025 |
 | [AI for Beginners](https://drive.google.com/file/d/1EK-TZucL9dLERHtJ-D6shS1H0laC6GCm/view?usp=sharing) | DICT | 2025 |
 | [Software Development and Design Tinking](https://drive.google.com/file/d/1pSbkp_bxr0_lcW4XSwEfuJqgiwA2aA8b/view?usp=sharing) | DICT | 2025 |
-
+| [Become An OCI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4F306C12F618CA63EB28F1F7ABE2758B9B00F7B9BA00E0D98106B05ED2F7F7AD) | Oracle | 2025 |
 
 ---
 
