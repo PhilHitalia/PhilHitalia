@@ -1,10 +1,6 @@
 <div align="center">
    <img width="3000" height="550" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7BD1D2&text=Hello%20there,%20I'm%20Phil%20&animation=fadeIn&textBg=false&reversal=true&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=43" />
 </div>
-     
-<p align="center">
-  <em>🧑‍💻 Computer Science Student | 🧩 Code. Create. Improve.  <br>🌱 Keep Growing, Keep Coding</em>
-</p>
       
 <p align="center">
   <a href="mailto:hitaliaphil75@gmail.com"><img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="email"/></a>
@@ -12,15 +8,6 @@
 ---
 
 ## Education
-- **Elementary**
-  - Dr. Carlos S. Lanting College (2011 - 2018)
-
-- **Junior High School**
-  - Dr. Carlos S. Lanting College (2018 - 2022)
-
-- **Senior High School**
-  - Dr. Carlos S. Lanting College (2022 - 2024)
-
 - **B.S. Computer Science**
   - New Era University (2024 – Present)
 
