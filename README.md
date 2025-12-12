@@ -22,6 +22,7 @@
 | [AI for Beginners](https://drive.google.com/file/d/1EK-TZucL9dLERHtJ-D6shS1H0laC6GCm/view?usp=sharing) | DICT | 2025 |
 | [Software Development and Design Tinking](https://drive.google.com/file/d/1pSbkp_bxr0_lcW4XSwEfuJqgiwA2aA8b/view?usp=sharing) | DICT | 2025 |
 | [Become An OCI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4F306C12F618CA63EB28F1F7ABE2758B9B00F7B9BA00E0D98106B05ED2F7F7AD) | Oracle | 2025 |
+| [Become an Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=21AEDFB9BC60FF113869A9D8F860EE33CE783105A131B986B7191862074F4124) | Oracle | 2025 |
 
 ---
 
